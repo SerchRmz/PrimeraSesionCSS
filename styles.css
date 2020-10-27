@@ -1,0 +1,21 @@
+h1{
+
+}
+
+#cabecera{
+    
+}
+
+.tituloPrincipal{
+    color: darkslategrey;
+}
+
+.btnSubmit{
+    background-color: plum;
+}
+
+.contenedorRegistro{
+    height: 400px;
+    background-color: aquamarine;
+    border-style: inset;
+}
